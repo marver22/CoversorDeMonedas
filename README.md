@@ -44,5 +44,5 @@ Los pasos que se siguieron para completar este desafío:
 
 ### 1️⃣ Clona el repositorio
 ```bash
-git clone https://github.com/marver22/ConvertidorDeMonedas.git
+git clone https://github.com/marver22/ConversorDeMonedas.git
 cd ConvertidorDeMonedas
